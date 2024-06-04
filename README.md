@@ -9,6 +9,6 @@ Sử dụng Postman trong kiểm thử API
 
   Nêu cách cài đặt, ưu nhược điểm của Postman và cách request một yêu cầu trong Postman.
 
-# 4. Sử dụng Postman để kiểm thử API
+# 3. Sử dụng Postman để kiểm thử API
 
   Tạo TCs kiểm thử và thực hiện kiểm thử API sử dụng Postman.
